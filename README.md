@@ -1,4 +1,4 @@
-# shopware-pwa v1.0.1
+# Shopware PWA v1.0.1
 
 Welcome to the live sandbox at codesandbox! You have a running shopware-pwa project now, ready for your commands!
 
