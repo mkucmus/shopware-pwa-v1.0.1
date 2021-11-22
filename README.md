@@ -6,6 +6,8 @@ If you are not familiar with the project, visit [official documentation](https:/
 
 ## Live customization
 
+codesandbox: https://codesandbox.io/s/sleepy-shannon-rnv8l?file=/README.md
+
 Feel free to customize the application by using standard CLI commands in the codesandbox's terminal - **open the new one next to the dev terminal with the nuxt output**.
 
 ```bash
